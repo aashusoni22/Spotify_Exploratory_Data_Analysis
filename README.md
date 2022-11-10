@@ -5,7 +5,7 @@
 
 •	**Objective:** To analyze data to find artists popularity, popular gerne, no. of songs per year and various correlations
 
-•	**Major insights** from visualization using Matplotlib & seaborn: Strong correlation between Loudness and Energy as compared to   acousticness and Energy that means if the song is loud, it is most likely energetic. 90s music on Spotify is less as         compared to no. songs in 2000 and 2020. The most popular Gernes on Spotify are Classical and World. 
+•	**Major insights** from visualization using Matplotlib & seaborn: Strong correlation between Loudness and Energy as            compared to acousticness and Energy that means if the song is loud, it is most likely energetic. 90s music on Spotify is      less as compared to no. songs in 2000 and 2020. The most popular Gernes on Spotify are Classical and World. 
 
 Steps: 
 •Performed Data Exploration (looked for nulls, no. of rows & cols, transpose table).
